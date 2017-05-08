@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="RedTheme" >
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="PinkTheme" >
+        <item name="android:background">@color/pink</item>
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="BlueTheme" >
+        <item name="android:background">@color/blue</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="GreenTheme" >
+        <item name="android:background">@color/green</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+    <style name="YellowTheme" >
+        <item name="android:background">@color/yellow</item>
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="VoiletTheme" >
+        <item name="android:background">@color/voilet</item>
+        <item name="android:textColor">@color/voilet</item>
+    </style>
+
+
+
+</resources>
