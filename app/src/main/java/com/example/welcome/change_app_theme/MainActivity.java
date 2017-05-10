@@ -1,16 +1,11 @@
 package com.example.welcome.change_app_theme;
 
-import android.app.ActionBar;
 import android.graphics.drawable.ColorDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Html;
 import android.view.View;
-import android.view.ViewConfiguration;
 import android.widget.Button;
-
-import java.lang.reflect.Field;
-import java.util.ArrayList;
 
 /*
 Firstly decide what things u want to change when you change the theme
