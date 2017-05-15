@@ -7,6 +7,8 @@ import android.text.Html;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.welcome.R;
+
 /*
 Firstly decide what things u want to change when you change the theme
 */

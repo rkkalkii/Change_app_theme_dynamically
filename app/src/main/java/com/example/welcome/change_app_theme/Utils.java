@@ -6,6 +6,8 @@ package com.example.welcome.change_app_theme;
 import android.app.Activity;
 import android.content.Intent;
 
+import com.example.welcome.R;
+
 public class Utils
 {
     private static int sTheme;
